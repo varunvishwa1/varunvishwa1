@@ -75,8 +75,6 @@ Prompt Engineering • LLMs • RAG • Machine Learning • Generative AI
 
 Canva • GitHub • VS Code • Figma • AWS • Nginx
 
-</div>
-
 🎓 Education
 Anna University
 B.E. Computer Science and Engineering
@@ -172,17 +170,15 @@ System Design          ██████████░░░░░░░░░
 
 ---
 
+# 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=varunvishwa1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff)
+
+---
+
 # 📈 GitHub Activity
 
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=varunvishwa1&theme=github-compact&hide_border=true&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF"
-  width="100%"
-  alt="Varun Vishwa's GitHub Activity Graph"
-/>
-
-</div>
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=varunvishwa1&theme=github-compact&hide_border=true&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF)SS
 
 💻 Developer Loop
 <div align="center">
@@ -218,30 +214,33 @@ System Design          ██████████░░░░░░░░░
                             └──────────────► 🚀
 </div>
 
-🔗 Connect With Me
-<div align="center"> <a href="https://github.com/varunvishwa1"> <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/varunvishwa/"> <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /> </a> <a href="mailto:varunvishwa169@gmail.com"> <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /> </a>
+---
 
-</div>
+## 🔗 Connect With Me
 
-📫 Contact
-<div align="center">
-Let's build something meaningful.
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varunvishwa1)
 
-AI Product Engineering • AI/ML • Software Engineering
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/varunvishwa/)
 
-📧 varunvishwa169@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:varunvishwa169@gmail.com)
 
-</div>
-<div align="center">
+---
 
+## 📫 Contact
+
+### Let's build something meaningful.
+
+**AI Product Engineering • AI/ML • Software Engineering**
+
+📧 `varunvishwa169@gmail.com`
+
+---
+
+```text
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
-║        CODE  •  BUILD  •  LEARN  •  REPEAT          ║
+║        CODE  •  BUILD  •  LEARN  •  REPEAT           ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 
-👋 Thanks for visiting my profile!
-
-</div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:161b22,100:0d1117" width="100%" />
-
-</div> ```
+</div>
