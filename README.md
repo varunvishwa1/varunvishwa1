@@ -4,7 +4,7 @@
 
 ### AI Product Engineer • AI/ML Developer • Software Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+AI-powered+products;Exploring+LLMs+%7C+RAG+%7C+Automation;Creating+scalable+software+solutions;Turning+ideas+into+real-world+products" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Building+AI-powered+products;Exploring+LLMs+%7C+RAG+%7C+Automation;Creating+scalable+software+solutions;Turning+ideas+into+real-world+products" />
 
 </div>
 
@@ -12,10 +12,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:161b22&text=VARUN%20VISHWA&fontColor=ffffff&fontSize=45&fontAlignY=40&desc=AI%20PRODUCT%20ENGINEER&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:161b22&text=VARUN%20VISHWA&fontColor=ffffff&fontSize=45&fontAlignY=40&desc=AI%20PRODUCT%20ENGINEER&descAlignY=62&descSize=18" width="100%" />
 
-
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,java,dart,js" /> </p>
+</div>
 
 ---
 
@@ -24,18 +23,18 @@
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│  Hey, I'm Varun Vishwa.                                    │
+│  Hey, I'm Varun Vishwa.                                     │
 │                                                             │
-│  🎓 Final-year Computer Science Engineering student        │
-│  🤖 AI Product Engineer                                    │
-│  🧠 AI / ML Developer                                      │
-│  💻 Software Engineer                                      │
+│  🎓 Final-year Computer Science Engineering student         │
+│  🤖 AI Product Engineer                                     │
+│  🧠 AI / ML Developer                                       │
+│  💻 Software Engineer                                       │
 │                                                             │
-│  I enjoy building AI-powered applications, LLM systems,    │
-│  automation workflows and scalable software products.      │
+│  I enjoy building AI-powered applications, LLM systems,     │
+│  automation workflows and scalable software products.       │
 │                                                             │
-│  Currently exploring:                                      │
-│  → Artificial Intelligence                                 │
+│  Currently exploring:                                       │
+│  → Artificial Intelligence                                  │
 │  → Machine Learning                                         │
 │  → LLMs & RAG                                               │
 │  → Full Stack Development                                   │
@@ -44,76 +43,45 @@
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 
-AI PRODUCT ENGINEERING
-        │
-        ├── 🤖 AI Applications
-        ├── 🧠 LLM Systems
-        ├── 🔎 RAG Systems
-        ├── ⚙️ Workflow Automation
-        ├── 📱 AI Mobile Applications
-        ├── ☁️ Cloud Deployment
-        └── 🚀 Scalable Products
+                    AI PRODUCT ENGINEERING
+                             │
+             ┌───────────────┼───────────────┐
+             │               │               │
+             ▼               ▼               ▼
+        🤖 AI Apps        🧠 LLMs          🔎 RAG
+             │               │               │
+             └───────────────┼───────────────┘
+                             │
+             ┌───────────────┼───────────────┐
+             │               │               │
+             ▼               ▼               ▼
+       ⚙️ Automation      ☁️ Cloud        🚀 Products
 
-Prompt Engineering
-LLMs
-RAG
-AI Application Development
-Machine Learning
-Generative AI
+🛠️ Tech Stack
+👨‍💻 Programming Languages
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,java,dart,js" /> </div>
+🤖 AI & Machine Learning
+<div align="center"> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /> </div> <div align="center">
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=flutter,firebase" /> </p>
-<p align="left"> <img src="https://skillicons.dev/icons?i=aws,nginx,docker,git,github" /> </p>
-<p align="left"> <img src="https://skillicons.dev/icons?i=vscode,figma" /> </p>
-Canva
-GitHub
-VS Code
-Figma
-AWS
-Nginx
+Prompt Engineering • LLMs • RAG • Machine Learning • Generative AI
 
-<div align="center"> <a href="https://github.com/varunvishwa1"> <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/varunvishwa/"> <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/> </a> <a href="mailto:varunvishwa169@gmail.com"> <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/> </a>
+</div>
+📱 Application Development
+<div align="center"> <img src="https://skillicons.dev/icons?i=flutter,firebase" /> </div>
+☁️ Cloud & DevOps
+<div align="center"> <img src="https://skillicons.dev/icons?i=aws,nginx,docker,git,github" /> </div>
+🎨 Developer & Design Tools
+<div align="center"> <img src="https://skillicons.dev/icons?i=vscode,figma,github" /> </div> <div align="center">
+
+Canva • GitHub • VS Code • Figma • AWS • Nginx
 
 </div>
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=varunvishwa1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=varunvishwa1&theme=github-dark-blue&hide_border=true&background=0d1117" width="48%"/>
+🎓 Education
+Anna University
+B.E. Computer Science and Engineering
 
-</div>
-
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=varunvishwa1&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%"/> </div>
-
-                 VARUN'S DEVELOPMENT LOOP
-
-                         ┌──────────┐
-                         │   IDEA   │
-                         └────┬─────┘
-                              │
-                              ▼
-                       ┌─────────────┐
-                       │   BUILD     │
-                       └──────┬──────┘
-                              │
-                              ▼
-                       ┌─────────────┐
-                       │    TEST     │
-                       └──────┬──────┘
-                              │
-                              ▼
-                       ┌─────────────┐
-                       │    BREAK    │
-                       └──────┬──────┘
-                              │
-                              ▼
-                       ┌─────────────┐
-                       │   DEBUG     │
-                       └──────┬──────┘
-                              │
-                              ▼
-                       ┌─────────────┐
-                       │   IMPROVE   │
-                       └──────┬──────┘
-                              │
-                              └───────────────► 🚀
-
+2023 - 2027
 
 Data Structures & Algorithms
 Object-Oriented Programming
@@ -123,57 +91,157 @@ Computer Networks
 Artificial Intelligence
 Machine Learning
 
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│  [████████████████████████████████████████] AI            │
-│  [██████████████████████████████████████  ] ML            │
-│  [████████████████████████████████████    ] LLM / RAG     │
-│  [██████████████████████████████████      ] Full Stack    │
-│  [████████████████████████████████        ] Cloud         │
-│  [██████████████████████████████          ] DevOps        │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
+🧩 Skills
 
-AI Products
-     │
-     ├── LLM Applications
-     ├── RAG Systems
-     ├── AI Automation
-     ├── Intelligent Assistants
-     ├── Computer Vision
-     ├── AI Mobile Apps
-     └── Developer Tools
+PROGRAMMING
+├── Python
+├── Java
+└── Dart
 
-LEARN
-  ↓
-BUILD
-  ↓
-FAIL
-  ↓
-DEBUG
-  ↓
-LEARN MORE
-  ↓
-BUILD BETTER
+AI / ML
+├── Artificial Intelligence
+├── Machine Learning
+├── LLMs
+├── RAG
+└── Prompt Engineering
+
+APPLICATION DEVELOPMENT
+├── Flutter
+├── Firebase
+└── Full Stack Development
+
+CLOUD & DEVOPS
+├── AWS
+├── Nginx
+├── Docker
+└── Git
+
+TOOLS
+├── GitHub
+├── VS Code
+├── Figma
+└── Canva
+
+🎯 Current Focus
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/varunvishwa1/varunvishwa1/output/github-contribution-grid-snake-dark.svg" />
+
+AI PRODUCT ENGINEERING
+
+AI Applications       ████████████████████ 100%
+
+Machine Learning      ██████████████████░░  90%
+
+LLM / RAG             █████████████████░░░  85%
+
+Full Stack            ████████████████░░░░  80%
+
+Cloud                  ██████████████░░░░░░  70%
+
+DevOps                 ████████████░░░░░░░░  60%
+
+System Design          ██████████░░░░░░░░░░  50%
+
+</div>
+🌱 Currently Learning
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│  🐍 Advanced Python                                 │
+│  🤖 AI Product Engineering                          │
+│  🧠 LLM Application Development                     │
+│  🔎 Retrieval Augmented Generation                  │
+│  📊 Machine Learning                                │
+│  🌐 Full Stack Development                          │
+│  ☁️ Cloud & DevOps                                  │
+│  🏗️ System Design                                   │
+│  🧩 Data Structures & Algorithms                    │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+
+# 💻 Most Used Languages
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=varunvishwa1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff"
+  width="45%"
+  alt="Varun Vishwa's Most Used Languages"
+/>
 
 </div>
 
+---
+
+# 📈 GitHub Activity
+
 <div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=varunvishwa1&theme=github-compact&hide_border=true&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF"
+  width="100%"
+  alt="Varun Vishwa's GitHub Activity Graph"
+/>
+
+</div>
+
+💻 Developer Loop
+<div align="center">
+                     ┌──────────────┐
+                     │     IDEA     │
+                     └──────┬───────┘
+                            │
+                            ▼
+                     ┌──────────────┐
+                     │    BUILD     │
+                     └──────┬───────┘
+                            │
+                            ▼
+                     ┌──────────────┐
+                     │     TEST     │
+                     └──────┬───────┘
+                            │
+                            ▼
+                     ┌──────────────┐
+                     │    BREAK     │
+                     └──────┬───────┘
+                            │
+                            ▼
+                     ┌──────────────┐
+                     │    DEBUG     │
+                     └──────┬───────┘
+                            │
+                            ▼
+                     ┌──────────────┐
+                     │   IMPROVE    │
+                     └──────┬───────┘
+                            │
+                            └──────────────► 🚀
+</div>
+
+🔗 Connect With Me
+<div align="center"> <a href="https://github.com/varunvishwa1"> <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/varunvishwa/"> <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /> </a> <a href="mailto:varunvishwa169@gmail.com"> <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /> </a>
+
+</div>
+
+📫 Contact
+<div align="center">
+Let's build something meaningful.
+
+AI Product Engineering • AI/ML • Software Engineering
 
 📧 varunvishwa169@gmail.com
 
 </div>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:161b22,100:0d1117"/>
-Thanks for visiting my profile 👋
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║        CODE  •  BUILD  •  LEARN  •  REPEAT          ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
 
-Code • Build • Learn • Repeat
+👋 Thanks for visiting my profile!
 
-</div> 
-</div>
+</div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:161b22,100:0d1117" width="100%" />
 
+</div> ```
